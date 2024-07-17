@@ -1,0 +1,4 @@
+name: DiscordWebhook
+version: '1.0-SNAPSHOT'
+main: me.drpot.discordWebhook.DiscordWebhook
+api-version: '1.20'

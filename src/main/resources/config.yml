@@ -1,0 +1,9 @@
+webhook-url: " "
+
+
+# Alerts
+chat-alerts: true
+join-alerts: true
+disconnect-alerts: true
+death-alerts: = true
+
